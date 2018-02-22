@@ -10,6 +10,10 @@ import me.storm.ninegag.App;
  */
 public class ToastUtils {
     private ToastUtils() {
+
+
+
+
     }
 
     private static void show(Context context, int resId, int duration) {
